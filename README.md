@@ -1,5 +1,5 @@
 # CRUD de uma API Rest
-## Projeto desenvolvido ao longo do curso Spring Boot 3: desenvolva uma API Rest em Java na Alura  
+## Projeto desenvolvido ao longo do curso Spring Boot 3: desenvolva uma API Rest em Java na Alura  https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java
 
 O curso teve como objetivo desenvolver um CRUD utilizando Java e Spring Boot. O Vool Med é uma aplicação onde o usuário poderia cadastrar Médicos e Pacientes. O desenvolvedor deveria seguir as regras de negócio apresentada no curso, que podem ser visualizadas 
 neste link https://trello.com/b/O0lGCsKb/api-voll-med criado pelo instrutor Rodrigo Caneppele para maior esclarecimento das funcionalidades necessárias da aplicação. 
